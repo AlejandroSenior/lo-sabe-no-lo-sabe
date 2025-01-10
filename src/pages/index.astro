@@ -1,11 +1,23 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
+import FrontCard from "../components/FrontCard.astro";
+import Layout from "../layouts/Layout.astro";
+import questions from "../questions/questions.json";
+import type { Question } from "../types/Question";
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+if (questions.length % 5 != 0) throw new Error("Faltan preguntas");
+
+let chunkedCards: Question[][] = [];
+for (let i = 0; i < questions.length; i += 5) {
+  chunkedCards.push(questions.slice(i, i + 5));
+}
 ---
 
 <Layout>
-	<Welcome />
+  <div id="first-div" class="grid grid-cols-2 gap-1">
+    {
+      chunkedCards
+        .sort(() => Math.random() - 0.5)
+        .map((chunkedCard) => <FrontCard questions={chunkedCard} />)
+    }
+  </div>
 </Layout>

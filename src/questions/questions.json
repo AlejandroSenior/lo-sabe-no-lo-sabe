@@ -1,0 +1,752 @@
+[
+  {
+    "loSabe": false,
+    "pregunta": "¿Cuál es el océano más grande del mundo?",
+    "respuesta": "Pacífico"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué animal es conocido como el rey de la selva?",
+    "respuesta": "León"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué ciudad es famosa por su torre inclinada?",
+    "respuesta": "Pisa"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿En qué año llegó el hombre a la Luna?",
+    "respuesta": "1969"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el planeta rojo?",
+    "respuesta": "Marte"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué país es famoso por el sushi?",
+    "respuesta": "Japón"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cómo se llama el capitán del barco en 'Piratas del Caribe'?",
+    "respuesta": "Jack Sparrow"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿En qué serie aparece un trono hecho de espadas?",
+    "respuesta": "Juego de Tronos"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cómo se llama la película donde un pez busca a su hijo?",
+    "respuesta": "Buscando a Nemo"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué continente es conocido como la cuna de la humanidad?",
+    "respuesta": "África"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué tipo de animal es Dumbo?",
+    "respuesta": "Elefante"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país tiene forma de bota?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el videojuego de Mario y su hermano?",
+    "respuesta": "Mario Bros"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cuál es la moneda de Estados Unidos?",
+    "respuesta": "Dólar"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿En qué ciudad se encuentra la Torre Eiffel?",
+    "respuesta": "París"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cómo se llama el superhéroe que usa un traje de hierro?",
+    "respuesta": "Iron Man"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país inventó la pizza?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿En qué película aparecen personajes llamados Woody y Buzz?",
+    "respuesta": "Toy Story"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué gas respiramos para vivir?",
+    "respuesta": "Oxígeno"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el oso amigo de Piglet y Tigger?",
+    "respuesta": "Winnie the Pooh"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué tipo de animal es Dumbo?",
+    "respuesta": "Elefante"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país tiene forma de bota?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el videojuego de Mario y su hermano?",
+    "respuesta": "Mario Bros"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cuál es la moneda de Estados Unidos?",
+    "respuesta": "Dólar"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿En qué ciudad se encuentra la Torre Eiffel?",
+    "respuesta": "París"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cómo se llama el superhéroe que usa un traje de hierro?",
+    "respuesta": "Iron Man"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país inventó la pizza?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿En qué película aparecen personajes llamados Woody y Buzz?",
+    "respuesta": "Toy Story"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué gas respiramos para vivir?",
+    "respuesta": "Oxígeno"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el oso amigo de Piglet y Tigger?",
+    "respuesta": "Winnie the Pooh"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué tipo de animal es Dumbo?",
+    "respuesta": "Elefante"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país tiene forma de bota?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el videojuego de Mario y su hermano?",
+    "respuesta": "Mario Bros"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cuál es la moneda de Estados Unidos?",
+    "respuesta": "Dólar"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿En qué ciudad se encuentra la Torre Eiffel?",
+    "respuesta": "París"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cómo se llama el superhéroe que usa un traje de hierro?",
+    "respuesta": "Iron Man"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país inventó la pizza?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿En qué película aparecen personajes llamados Woody y Buzz?",
+    "respuesta": "Toy Story"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué gas respiramos para vivir?",
+    "respuesta": "Oxígeno"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el oso amigo de Piglet y Tigger?",
+    "respuesta": "Winnie the Pooh"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué tipo de animal es Dumbo?",
+    "respuesta": "Elefante"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país tiene forma de bota?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el videojuego de Mario y su hermano?",
+    "respuesta": "Mario Bros"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cuál es la moneda de Estados Unidos?",
+    "respuesta": "Dólar"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿En qué ciudad se encuentra la Torre Eiffel?",
+    "respuesta": "París"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cómo se llama el superhéroe que usa un traje de hierro?",
+    "respuesta": "Iron Man"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país inventó la pizza?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿En qué película aparecen personajes llamados Woody y Buzz?",
+    "respuesta": "Toy Story"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué gas respiramos para vivir?",
+    "respuesta": "Oxígeno"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el oso amigo de Piglet y Tigger?",
+    "respuesta": "Winnie the Pooh"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué tipo de animal es Dumbo?",
+    "respuesta": "Elefante"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país tiene forma de bota?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el videojuego de Mario y su hermano?",
+    "respuesta": "Mario Bros"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cuál es la moneda de Estados Unidos?",
+    "respuesta": "Dólar"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿En qué ciudad se encuentra la Torre Eiffel?",
+    "respuesta": "París"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cómo se llama el superhéroe que usa un traje de hierro?",
+    "respuesta": "Iron Man"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país inventó la pizza?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿En qué película aparecen personajes llamados Woody y Buzz?",
+    "respuesta": "Toy Story"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué gas respiramos para vivir?",
+    "respuesta": "Oxígeno"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el oso amigo de Piglet y Tigger?",
+    "respuesta": "Winnie the Pooh"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué tipo de animal es Dumbo?",
+    "respuesta": "Elefante"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país tiene forma de bota?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el videojuego de Mario y su hermano?",
+    "respuesta": "Mario Bros"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cuál es la moneda de Estados Unidos?",
+    "respuesta": "Dólar"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿En qué ciudad se encuentra la Torre Eiffel?",
+    "respuesta": "París"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cómo se llama el superhéroe que usa un traje de hierro?",
+    "respuesta": "Iron Man"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país inventó la pizza?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿En qué película aparecen personajes llamados Woody y Buzz?",
+    "respuesta": "Toy Story"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué gas respiramos para vivir?",
+    "respuesta": "Oxígeno"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el oso amigo de Piglet y Tigger?",
+    "respuesta": "Winnie the Pooh"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué tipo de animal es Dumbo?",
+    "respuesta": "Elefante"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país tiene forma de bota?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el videojuego de Mario y su hermano?",
+    "respuesta": "Mario Bros"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cuál es la moneda de Estados Unidos?",
+    "respuesta": "Dólar"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿En qué ciudad se encuentra la Torre Eiffel?",
+    "respuesta": "París"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cómo se llama el superhéroe que usa un traje de hierro?",
+    "respuesta": "Iron Man"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país inventó la pizza?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿En qué película aparecen personajes llamados Woody y Buzz?",
+    "respuesta": "Toy Story"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué gas respiramos para vivir?",
+    "respuesta": "Oxígeno"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el oso amigo de Piglet y Tigger?",
+    "respuesta": "Winnie the Pooh"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué tipo de animal es Dumbo?",
+    "respuesta": "Elefante"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país tiene forma de bota?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el videojuego de Mario y su hermano?",
+    "respuesta": "Mario Bros"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cuál es la moneda de Estados Unidos?",
+    "respuesta": "Dólar"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿En qué ciudad se encuentra la Torre Eiffel?",
+    "respuesta": "París"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cómo se llama el superhéroe que usa un traje de hierro?",
+    "respuesta": "Iron Man"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país inventó la pizza?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿En qué película aparecen personajes llamados Woody y Buzz?",
+    "respuesta": "Toy Story"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué gas respiramos para vivir?",
+    "respuesta": "Oxígeno"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el oso amigo de Piglet y Tigger?",
+    "respuesta": "Winnie the Pooh"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué tipo de animal es Dumbo?",
+    "respuesta": "Elefante"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país tiene forma de bota?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el videojuego de Mario y su hermano?",
+    "respuesta": "Mario Bros"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cuál es la moneda de Estados Unidos?",
+    "respuesta": "Dólar"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿En qué ciudad se encuentra la Torre Eiffel?",
+    "respuesta": "París"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cómo se llama el superhéroe que usa un traje de hierro?",
+    "respuesta": "Iron Man"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país inventó la pizza?",
+    "respuesta": "Italia"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿En qué película aparecen personajes llamados Woody y Buzz?",
+    "respuesta": "Toy Story"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué gas respiramos para vivir?",
+    "respuesta": "Oxígeno"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el oso amigo de Piglet y Tigger?",
+    "respuesta": "Winnie the Pooh"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿En qué año terminó oficialmente la Segunda Guerra Mundial?",
+    "respuesta": "1945"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cuál es el libro más vendido de todos los tiempos después de la Biblia?",
+    "respuesta": "Don Quijote de la Mancha"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿En qué país se encuentra el Monte Kilimanjaro?",
+    "respuesta": "Tanzania"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+    "respuesta": "Fémur"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cómo se llama la sustancia que le da el color rojo a la sangre?",
+    "respuesta": "Hemoglobina"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿En qué serie aparece el personaje Walter White?",
+    "respuesta": "Breaking Bad"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país es conocido por la Torre de Belem y los pasteles de nata?",
+    "respuesta": "Portugal"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué emperador romano legalizó el cristianismo?",
+    "respuesta": "Constantino"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cuál es el río más largo de América del Sur?",
+    "respuesta": "Amazonas"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿En qué país está la región de Transilvania?",
+    "respuesta": "Rumanía"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el villano principal en la saga 'Harry Potter'?",
+    "respuesta": "Voldemort"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué unidad se usa para medir la intensidad del sonido?",
+    "respuesta": "Decibelio"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cómo se llaman los habitantes de Mónaco?",
+    "respuesta": "Monegascos"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué fórmula representa la energía en la ecuación de Einstein?",
+    "respuesta": "E=mc^2"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿En qué país se encuentran las ruinas de Petra?",
+    "respuesta": "Jordania"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cuál es el único mamífero capaz de volar?",
+    "respuesta": "Murciélago"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué gas forma la mayor parte de la atmósfera terrestre?",
+    "respuesta": "Nitrógeno"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cuál es el nombre del parque en 'Jurassic Park'?",
+    "respuesta": "Isla Nublar"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué pieza del ajedrez solo puede moverse en diagonal?",
+    "respuesta": "Alfil"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿En qué país se inventó el papel?",
+    "respuesta": "China"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué héroe de Marvel lleva un escudo con una estrella?",
+    "respuesta": "Capitán América"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué planeta tiene el día más largo de todo el sistema solar?",
+    "respuesta": "Venus"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cómo se llama el metal más ligero conocido?",
+    "respuesta": "Litio"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cuál es el idioma más hablado del mundo?",
+    "respuesta": "Inglés"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué significa la 'H' en la abreviatura H2O?",
+    "respuesta": "Hidrógeno"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué océano rodea a las Islas Malvinas?",
+    "respuesta": "Atlántico"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cómo se llama el animal que puede cambiar de color para camuflarse?",
+    "respuesta": "Camaleón"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué especie de tiburón es la más grande del mundo?",
+    "respuesta": "Tiburón ballena"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿En qué país está el desierto del Sahara?",
+    "respuesta": "Varios países"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué planeta es conocido como el gigante gaseoso?",
+    "respuesta": "Júpiter"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué instrumento mide la presión atmosférica?",
+    "respuesta": "Barómetro"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama la isla donde está la Estatua de la Libertad?",
+    "respuesta": "Isla de la Libertad"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cuál es el sistema operativo más utilizado del mundo?",
+    "respuesta": "Windows"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué filósofo dijo 'pienso, luego existo'?",
+    "respuesta": "Descartes"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama la capa más externa de la Tierra?",
+    "respuesta": "Corteza terrestre"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué color se obtiene mezclando azul y amarillo?",
+    "respuesta": "Verde"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cómo se llama el pez que ayuda a Marlin en 'Buscando a Nemo'?",
+    "respuesta": "Dory"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué letra representa el número 100 en números romanos?",
+    "respuesta": "C"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cuál es el metal precioso más denso del mundo?",
+    "respuesta": "Osmio"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿En qué ciudad está el famoso teatro La Scala?",
+    "respuesta": "Milán"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cuál es el nombre completo del personaje de 'Sherlock Holmes'?",
+    "respuesta": "Sherlock Holmes"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Qué animal representa a la Casa Stark en 'Juego de Tronos'?",
+    "respuesta": "Lobo huargo"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Cuál es el nombre del androide en 'Star Wars' con el número 2 en su nombre?",
+    "respuesta": "R2-D2"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿En qué isla se originó el reggae?",
+    "respuesta": "Jamaica"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué número representa el cero absoluto en la escala Celsius?",
+    "respuesta": "-273.15"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué isla italiana es famosa por sus limones?",
+    "respuesta": "Capri"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué palabra en inglés se usa para referirse a un truco de magia?",
+    "respuesta": "Abracadabra"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué tipo de estrella es el Sol?",
+    "respuesta": "Enana amarilla"
+  },
+  {
+    "loSabe": true,
+    "pregunta": "¿Qué país tiene como moneda el rublo?",
+    "respuesta": "Rusia"
+  },
+  {
+    "loSabe": false,
+    "pregunta": "¿Cuál es el animal terrestre más rápido del mundo?",
+    "respuesta": "Guepardo"
+  }
+]
